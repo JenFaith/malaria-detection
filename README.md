@@ -13,7 +13,7 @@ Data was pulled from kaggle dataset found here: https://www.kaggle.com/iarunava/
 
 ## Technologies
 This project was developed using:
-* python 3.8
+* python >= 3.8
 * pandas
 * numpy
 * tensorflow
